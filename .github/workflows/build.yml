@@ -9,7 +9,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
       - name: Get Date
         id: get-date
         run: |
